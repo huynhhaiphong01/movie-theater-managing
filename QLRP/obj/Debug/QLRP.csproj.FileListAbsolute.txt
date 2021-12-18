@@ -1,0 +1,16 @@
+D:\Conha\WINFORM\QLRP\QLRP\bin\Debug\QLRP.exe.config
+D:\Conha\WINFORM\QLRP\QLRP\bin\Debug\QLRP.exe
+D:\Conha\WINFORM\QLRP\QLRP\bin\Debug\QLRP.pdb
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.Properties.Resources.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.csproj.GenerateResource.Cache
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.exe
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.pdb
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.csprojResolveAssemblyReference.cache
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.QL.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.QuanLyRap.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.QLNV.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.RP1.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.NV1.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.QLP.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.AddPhim.resources
+D:\Conha\WINFORM\QLRP\QLRP\obj\Debug\QLRP.Flogin.resources
